@@ -32,7 +32,7 @@ End Sub
 
 ## Práctica
 
-_A continuación se muestra actividad que consiste en realizar un programa que muestra tres mensajes al usuario en visual basic, y su respectivo diagrama de flujo_
+_esta  actividad consiste en realizar un programa que muestra tres mensajes al usuario en visual basic, y su respectivo diagrama de flujo_
 
 
 **Diagrama de flujo**
@@ -54,5 +54,5 @@ _A continuación se muestra actividad que consiste en realizar un programa que m
 
 ## Flipgrid
 
-[Haz clic aquí para ir al video](https://flipgrid.com/e3eaa9b1)
+[Haz clic aquí para ir al video](https://flipgrid.com/73123f5c)
    
