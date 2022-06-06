@@ -3,7 +3,7 @@
 ### ciclo for :
 
 
-En esta clase se dejó una acticidad que consiste en poner nombre a partir de la d, quitar y poner 10 veces a la derecha y 10 abajo.
+En esta clase se dejó una actividad que consiste en poner nombre a partir de la d, quitar y poner 10 veces a la derecha y 10 abajo.
 
 Código
 
